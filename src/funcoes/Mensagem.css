@@ -1,0 +1,6 @@
+.divMensagem{
+    display: flex;
+    justify-content: center;
+    color: red;
+    background-color: black;
+}
